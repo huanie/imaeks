@@ -3,14 +3,13 @@
 #+LANGUAGE: en
 #+OPTIONS: num:nil
 
-* Table of Contents
-#+begin_quote
+* Table of Contents :TOC:
 - [[#interface] [Interface]]
 - [[#text-editing] [Text Editing]]
 - [[#convenience] [Convenience]]
 - [[#functions] [Functions]]
 - [[#helpful-packages] [Helpful packages]]
-#+end_quote
+
 * Interface
 Stupid ricing, I could live without it.
 ** Font
