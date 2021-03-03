@@ -175,7 +175,7 @@ Default undo and redo can be confusing, with this package the behaviour is like 
    #+end_src
 #+end_src
 * Minor packages
-Packages that enhances the experience but isn't going to change the workflow.
+Packages that enhances the experience but aren't going to change the workflow.
 ** Rainbow delimiters
 Matching colors for matching parentheses.
 #+begin_src emacs-lisp
